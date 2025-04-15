@@ -2,6 +2,14 @@
 
 A Python script to reorder pages in a PDF file based on a specified order.
 
+## 🧠 Why This Script Exists (aka The Origin Story No One Asked For)
+
+I had to buy access to the learning app from my driving school in Germany €100 a year (considering it’s basically just a PowerPoint with some buttons).
+So I took a bunch of screenshots of the material pages and turned them into a PDF. But the pages ended up in the wrong order, which made studying kind of impossible.
+Instead of manually fixing it (because I have other things to procrastinate with), I wrote this script. 
+It lets you reorder PDF pages however you want. Now it’s reusable, fast, and saves you from scrolling through a mess.
+It’s not fancy, but it works. Like a used Toyota.
+
 ## Requirements
 
 - Python 3.x
